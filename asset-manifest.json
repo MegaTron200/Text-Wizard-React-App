@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Text-Wizard-React-App/static/css/main.00880a7f.css",
+    "main.js": "/Text-Wizard-React-App/static/js/main.816b04a8.js",
+    "static/js/453.b418f484.chunk.js": "/Text-Wizard-React-App/static/js/453.b418f484.chunk.js",
+    "static/media/girl-icon.jpeg": "/Text-Wizard-React-App/static/media/girl-icon.b4a75ea91b003a415122.jpeg",
+    "index.html": "/Text-Wizard-React-App/index.html",
+    "main.00880a7f.css.map": "/Text-Wizard-React-App/static/css/main.00880a7f.css.map",
+    "main.816b04a8.js.map": "/Text-Wizard-React-App/static/js/main.816b04a8.js.map",
+    "453.b418f484.chunk.js.map": "/Text-Wizard-React-App/static/js/453.b418f484.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00880a7f.css",
+    "static/js/main.816b04a8.js"
+  ]
+}
